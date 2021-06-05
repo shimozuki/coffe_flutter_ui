@@ -1,0 +1,4 @@
+#Sat Jun 05 22:41:03 WITA 2021
+base.0=/home/shimozuki/Music/project_flutter/coffeshop-app-ui/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
